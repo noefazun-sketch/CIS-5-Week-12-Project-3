@@ -151,7 +151,7 @@ Student at index 48 needs to come to office hours.
 Office hours: 31
 PS C:\Users\rinco\new ci5\CIS-5-Week-12-Project-3> 
 
-...
+## o ...
 Office hours: 15
 ```
 
